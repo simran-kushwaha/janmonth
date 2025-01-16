@@ -1,3 +1,3 @@
 # janmonth
-now i am again start github 
-now a days a am daily learn github
+now i am again start github <br>
+nowadays i am daily learn github
